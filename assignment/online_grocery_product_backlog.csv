@@ -1,0 +1,13 @@
+Story ID,Story,MoSCoW Priority,Story Points,Epic ID
+US-10,Customer registration,Must Have,5,EPIC-04
+US-01,View grocery categories,Must Have,3,EPIC-01
+US-02,Search products by name,Must Have,5,EPIC-01
+US-03,View product details and prices,Must Have,3,EPIC-01
+US-04,Add products to cart,Must Have,5,EPIC-02
+US-05,Update cart quantities,Must Have,3,EPIC-02
+US-06,Secure online payments,Must Have,8,EPIC-02
+US-07,Receive order confirmation,Must Have,3,EPIC-03
+US-11,Save delivery address,Should Have,3,EPIC-04
+US-08,Track delivery status,Should Have,8,EPIC-03
+US-09,Receive delivery notifications,Could Have,5,EPIC-03
+US-12,View previous orders,Could Have,3,EPIC-04
